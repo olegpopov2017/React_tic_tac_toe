@@ -9,6 +9,7 @@ function Square({ value }) {
     </button>
   )
 }
+
 export default function Board() {
   return (
     <>
